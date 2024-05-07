@@ -6,6 +6,7 @@ export default function Header() {
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-around' }}>
             <Logo></Logo>
             <Navbar></Navbar>
+
         </div>
     )
 }
